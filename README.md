@@ -1,7 +1,7 @@
 # Mission to Mars
 ## Web Scraping Challenge![mission_to_mars](https://user-images.githubusercontent.com/85762953/134041145-78f117c8-d30a-4f9c-b3fb-26ca38733808.png)
 
-The task for this assignment was to build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
+T built a application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
 The pages to be scraped came from the following sources to retrieve data:
 
