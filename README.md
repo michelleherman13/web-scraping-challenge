@@ -1,5 +1,5 @@
 # Mission to Mars
-## Web Scraping![mission_to_mars](https://user-images.githubusercontent.com/85762953/134041145-78f117c8-d30a-4f9c-b3fb-26ca38733808.png)
+## Web Scraping! 
 
 I built a application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
@@ -18,3 +18,18 @@ The pages to be scraped came from the following sources to retrieve data:
 
 ### [Mars Hemispheres](https://marshemispheres.com/)
 * High resolution images for each of Mar's hemispheres.
+
+## Tools
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li></ul>
+<li>Pandas</li></ul>
+<li>Jupyter Notebook</li></ul>
+<li>BeautifulSoup</li></ul>
+<li>Flask</li></ul>
+<li>PyMongo</li></ul>
+<li>ChromeDriverManager</li></ul>
+<li>Splinter</li></ul>
+<li>VS Code</li></ul>
+</details>
